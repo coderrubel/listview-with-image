@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Custom list view with image</string>
+
+    <string-array name="city">
+        <item>Dhaka</item>
+        <item>Kabul</item>
+        <item>Cape Town</item>
+        <item>Canberra</item>
+        <item>Brasilia</item>
+        <item>New Delhi</item>
+        <item>Tokyo</item>
+        <item>Islamabad</item>
+        <item>Riyadh</item>
+        <item>Kampala</item>
+    </string-array>
+</resources>
